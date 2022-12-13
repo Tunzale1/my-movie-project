@@ -18,8 +18,4 @@
     flex-direction: row;
     justify-content: space-between;
    }
-   @media only screen and (min-width: 375px) and (max-width:830px) {
- .nav-title{
-    margin-left: 100px;
- }
-   }
+   
