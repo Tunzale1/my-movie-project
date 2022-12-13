@@ -8,7 +8,7 @@ const Navbar = () => {
                     <h1 className='nav-title'>
                     <div className='salal'>
                             M o v i e
-                    <i class="fa-solid fa-video"></i>
+                    <i className="fa-solid fa-video"></i>
                     </div>
                     </h1>
 
